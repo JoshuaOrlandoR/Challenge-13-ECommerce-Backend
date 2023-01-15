@@ -73,7 +73,7 @@ router.put('/:id', (req, res) => {
   })
   .then(categoryInfo => {
     if(!categoryInfo) {
-      res.status(404).json({message: ' 404! No categories could be found!'});
+      res.status(404).json({message: '404! No categories could be found!'});
       return;
     }
     res.json(categoryInfo);
@@ -93,7 +93,7 @@ router.delete('/:id', (req, res) => {
   })
   .then(categoryInfo => {
     if(!categoryInfo) {
-      res.status(404).json({message: ' 404! No categories could be found!'});
+      res.status(404).json({message: '404! No categories could be found!'});
       return;
     }
     res.json(categoryInfo);
