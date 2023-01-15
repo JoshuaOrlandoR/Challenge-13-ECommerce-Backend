@@ -31,7 +31,7 @@
   
   Now type "npm run seed" and "npm start". This will launch the application on localhost port 3001. There is no actual application users can utilize directly on this port, instead, a program like POSTman or Insomnia will allow users to see if their backend is set up correctly. 
   
-  Examples of this will be displayed in the walkthrough video and GIFs in the Tests section. 
+  Examples of this will be displayed in the walkthrough video and screenshots in the Tests section. 
 
   ## License 
   
@@ -46,9 +46,51 @@
   Video Can also be found in Assets folder! 
   
   
-  GIF EXAMPLES:
-
- 
+  Screenshots:
+  GET Requests: 
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  GET Requests by ID: 
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  POST Requests: 
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  PUT Requests: 
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  DELETE Requests: 
+  <br>
+  
+  <br>
+  
+  <br>
+  
+  <br>
 
   ## Questions 
   Thank you for your interest in my application, Challenge 13: E-Commerce Backend! 
