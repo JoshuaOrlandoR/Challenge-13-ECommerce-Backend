@@ -41,7 +41,8 @@
   Thank you for your interest in this application! I am not accepting contributions at this time.
 
   ## Tests 
-  WALKTHROUGH VIDEO: 
+  WALKTHROUGH VIDEO: https://drive.google.com/file/d/14YESentHrtMvLvTi8s4fs_xn2bRG7AvH/view 
+  Video Can also be found in Assets folder! 
   
   
   GIF EXAMPLES:
