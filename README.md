@@ -57,11 +57,12 @@
 
   <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577534-8f977de3-34d2-4f51-8a7c-f8646a74ec1d.png)
-
   <br>
   
   GET Requests by ID: 
+  
   <br>
+  
   ![image](https://user-images.githubusercontent.com/114437149/212577563-0c2c23d1-6184-439b-a92d-0866ee33860f.png)
 
   <br>
@@ -77,7 +78,6 @@
   ![image](https://user-images.githubusercontent.com/114437149/212577650-1687c915-f121-46d2-b150-845f6d443817.png)
   <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577668-c2612604-f9fa-4c27-adea-b213da331f5d.png)
-
   <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577692-ffb20147-eed9-4218-b386-0471418467f7.png)
   <br>
