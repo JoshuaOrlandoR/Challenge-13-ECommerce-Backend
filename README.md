@@ -48,6 +48,7 @@
   
   Screenshots:
   GET Requests: 
+  
   <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577493-884d0024-1e34-487b-be73-a000458e3f14.png)
 
@@ -74,16 +75,21 @@
   POST Requests: 
   <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577650-1687c915-f121-46d2-b150-845f6d443817.png)
+  <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577668-c2612604-f9fa-4c27-adea-b213da331f5d.png)
 
   <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577692-ffb20147-eed9-4218-b386-0471418467f7.png)
+  <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577727-d7445417-1804-4d97-981b-f11f2b7879cf.png)
   
   <br>
   ![image](https://user-images.githubusercontent.com/114437149/212577748-2d43d47a-9c66-472f-b6b3-0a40f37c838d.png)
-  ![image](https://user-images.githubusercontent.com/114437149/212577788-c9049589-4275-4ccd-9890-450e83fca907.png)
   <br>
+  ![image](https://user-images.githubusercontent.com/114437149/212577788-c9049589-4275-4ccd-9890-450e83fca907.png)
+  
+  <br>
+  
   The Post and Delete Requests can be found in the video guide! I was unable to capture them in the GIF tool I used - will update the readme when this is resolved! 
 
   ## Questions 
